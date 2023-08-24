@@ -1,0 +1,50 @@
+<main>
+        <div class="form">
+            <form action='@Url.Action("Comenzar")' method="post" class="formulario">
+                <div class="div-form">
+                    <div class="container-usuario">
+
+                    <label class="usuario" for="username">Nombre de Usuario:</label>
+                    <input type="text" placeholder="Usuario" id="username" name="Username" required>
+                    
+                    <label class="usuario" for="Dificultad" >Dificultad:</label>
+                    <select id="Dificultad" name="Dificultad" required>
+                    @foreach(var item in ViewBag.Dificultades)
+                    {
+                        <option value="@item.IdDificultad">@item.Nombre</option>
+                    }
+                    <option value="-1">Todas</option>
+                    </select>
+                    </div>
+                   
+                  
+                    <div class="cards">
+                    @foreach(var item in ViewBag.Categorias)
+                    {
+                        <div class="carta" style="background-color:@item.Fondo">
+                        <div class="img-txt">
+                            <img src="/img/@item.Foto" alt="">
+                            <p style = "color: @item.Color">@item.Nombre</p>
+                        </div>
+                        <label class="category-option">
+                            <input type="radio" name="categoria" value="@item.IdCategoria">
+                            <span class="custom-radio a"></span>
+                        </label>                
+                        </div>
+
+                    }
+                    </div>
+                    </div>
+                          <div class="boton"> 
+                          <button type="submit" class="jugar-button">JUGAR<button>
+                          </div>
+                  
+                     </form>
+                </div>
+                
+           
+
+        </div>
+
+    </main>
+    

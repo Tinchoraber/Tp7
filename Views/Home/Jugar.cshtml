@@ -1,0 +1,9 @@
+<form action='@Url.Action("VerificarRespuesta")' method="post" class="formulario">
+<div class="form">
+<h2>Pregunta: @ViewBag.pregunta.Enunciado</h2>
+@foreach (Respuestas item in ViewBag.Respuestas)
+{
+  @item.Contenido
+}
+</div>
+</form>
