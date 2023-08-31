@@ -50,6 +50,13 @@ public class HomeController : Controller
     }
     [HttpPost] public IActionResult VerificarRespuesta(int idPregunta, int idRespuesta){
         ViewBag.EsCorrecta = Juego.VerificarRespuesta(idPregunta, idRespuesta);
+        if (Juego.VerificarRespuesta(idPregunta, idRespuesta) == true)
+        {
+            ViewBag.RESPUESTA = "LA RESPUESTA ES CORRECTA";
+        }
+        else{
+            ViewBag.RESPUESTA = "LA RESPUESTA ES INCORRECTA";
+        }
         return View ("Respuesta");
     }
 

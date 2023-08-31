@@ -57,7 +57,7 @@ strong{
   cursor: pointer;
   box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
   transition: background-color 0.3s ease, transform 0.2s ease-in-out;
-  width: 10%;
+  
   }
   .jugar-button a{
       display: flex;

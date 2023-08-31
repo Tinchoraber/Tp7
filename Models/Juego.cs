@@ -55,18 +55,16 @@ public static class Juego
         bool resp = false;
         foreach (Respuestas item in LiRespuestas)
         {
-            if (item.Correcta == true)
+            if (item.Correcta == true && item.IdRespuesta == idRespuesta)
             {
+                
                 PuntajeActual = PuntajeActual + 10;
                 CantidadPreguntasCorrectas++;
                 resp = true;
             }
-            else
-            {
-                resp = false;
-            }
-            LiPreguntas.Remove(LiPreguntas[idPregunta]);
+            
         }
+        LiPreguntas.Remove(LiPreguntas[idPregunta]);
         return resp;
     }
 }

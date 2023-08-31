@@ -3,7 +3,7 @@
 <h2>Pregunta: @ViewBag.pregunta.Enunciado</h2>
 @foreach (Respuestas item in ViewBag.Respuestas)
 {
-  @item.Contenido
+  <button type="submit" name="IdRespuesta" value="@item.IdRespuesta">@item.Contenido</button>
 }
 </div>
 </form>
