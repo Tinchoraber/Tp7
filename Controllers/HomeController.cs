@@ -29,15 +29,16 @@ public class HomeController : Controller
         
         if (Juego.ObtenerProximaPregunta() != null)
         {
-            return RedirectToAction("Jugar");
+            return RedirectToAction("Jugar", new {user = username});
         }
         else{
             return RedirectToAction("ConfigurarJuego");
         }
        
     }
-    public IActionResult Jugar()
+    public IActionResult Jugar(string user)
     {
+        ViewBag.username = user;
         ViewBag.pregunta = Juego.ObtenerProximaPregunta();
         if(ViewBag.pregunta == null)
         {
