@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yjuLWuam3T2eyQzBkUYPLA15Z6N3ivNSmM5niKjlMtQ=",
+  "Hash": "794S8waF6ZWUGqsOYNdYyOdCY8W7bTpud0YxTy8Fz3k=",
   "Source": "TP7",
   "BasePath": "_content/TP7",
   "Mode": "Default",
@@ -219,6 +219,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\deportes.png"
+    },
+    {
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\emoji.gif",
+      "SourceId": "TP7",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
+      "BasePath": "_content/TP7",
+      "RelativePath": "img/emoji.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\emoji.gif"
     },
     {
       "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\entretenimiento.png",

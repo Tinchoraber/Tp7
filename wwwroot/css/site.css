@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   body{
-    background-image: url(../img/fondo2.jpg);
+    background-image: url(/img/fondo2.jpg);
     background-position: center;
   }
   .navegador-li{
@@ -279,7 +279,7 @@
   }
   
   .body-correcta{
-      background-image: url(../img/gif.gif);
+      background-image: url(/img/gif.gif);
   }
   .contenedor-correcta{
       display: flex;
@@ -356,7 +356,7 @@
   
   .body-incorrecto {
     font-family: 'Special Elite', cursive;
-    background-image: url(../img/fire.gif); 
+    background-image: url(/img/fire.gif); 
       background-size: 150%;
       background-repeat: no-repeat;
       background-position: center;
@@ -440,4 +440,100 @@
   .strong-incorrecta{
       color: red;
   }
+
+  .fin-body{
+    
+  }
+  .contenedorr{
+      display: flex;
+      flex-direction: column;
+  
+  }
+  
+  .title-fin{
+      display: flex;
+      justify-content: center;
+      margin-bottom: 3rem;
+  }
+  .padre-fin{
+      display: flex;
+      flex-direction: column;
+      margin-top: 2rem;
+  }
+  
+  .cont-fin {
+     
+      text-align: center;
+      background-color: rgba(88, 155, 182, 0.507);
+      border-radius: 10px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+      padding-inline: 2rem;
+    
+      padding-bottom: 2rem;
+     
+  }
+  .carta-fin{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 2rem;
+      
+  }
+  .strong-fin{
+      color: yellow;
+  }
+  .strong2{
+      color: pink;
+  }
+  .p-fin{
+      
+      font-family: Comic Sans MS;
+      font-weight:bold;
+      font-size: 30px;
+      color: rgb(212, 71, 71);
+      text-shadow: -1px 0 #414D68, 0 1px #414D68, 1px 0 #414D68, 0 -1px #414D68, -2px 2px 0 #414D68, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68;
+  }
+  .gif-fin{
+      margin-bottom: 2rem;
+  }
+  .p-finn{
+      font-weight: bold;
+  }
+  .boton-fin{
+      display: flex;
+      justify-content: center;
+  }
+  .button-fin{
+      margin-bottom: 2rem;
+      background-color: #025fff;
+      color: #fff;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+      transition: background-color 0.3s ease, transform 0.2s ease-in-out;
+      margin-top: 2rem;
+      padding-inline: 10rem;
+      padding: 1rem;
+  }
+  .button-fin a{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      color: white;
+     
+  }
+  
+  
+  
+  .button-fin:hover {
+      background-color: #2f07f5;
+      transform: scale(1.05);
+  }
+  
+  .button-fin:focus {
+      outline: none;
+  }
+  
   

@@ -53,6 +53,10 @@
       "PackagePath": "staticwebassets\\img\\deportes.png"
     },
     {
+      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\emoji.gif",
+      "PackagePath": "staticwebassets\\img\\emoji.gif"
+    },
+    {
       "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\entretenimiento.png",
       "PackagePath": "staticwebassets\\img\\entretenimiento.png"
     },
