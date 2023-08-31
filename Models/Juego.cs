@@ -31,6 +31,8 @@ public static class Juego
     {
         if(LiPreguntas.Count > 0)
         {
+
+            
             Random rnd = new Random();
             return LiPreguntas[rnd.Next(0, LiPreguntas.Count-1)];
         }

@@ -52,10 +52,27 @@ public class HomeController : Controller
         ViewBag.EsCorrecta = Juego.VerificarRespuesta(idPregunta, idRespuesta);
         if (Juego.VerificarRespuesta(idPregunta, idRespuesta) == true)
         {
-            ViewBag.RESPUESTA = "LA RESPUESTA ES CORRECTA";
+            ViewBag.PADRE = "padre-correcta";
+            ViewBag.SCREEN = "correct-screen";
+            ViewBag.imgCORONITA = "/img/coronita.png";
+            ViewBag.PARRAFO = "parrafo-correcta";
+            ViewBag.STRONG = "strong-correcta";
+            ViewBag.RESULTADO = "CORRECTA!!";
+            ViewBag.BOTON = "correcta-button";
+            ViewBag.BODY = "body-correcta";
+            
+            
+
         }
         else{
-            ViewBag.RESPUESTA = "LA RESPUESTA ES INCORRECTA";
+            ViewBag.PADRE = "padre-incorrecta";
+             ViewBag.SCREEN = "incorrect-screen";
+             ViewBag.imgCORONITA = "/img/coronitaIncorrecta.png";
+             ViewBag.PARRAFO = "parrafo-incorrecta";
+             ViewBag.STRONG = "strong-incorrecta";
+             ViewBag.RESULTADO = "INCORRECTA!!";
+             ViewBag.BOTON = "incorrect-button";
+             ViewBag.BODY = "body-incorrecto";
         }
         return View ("Respuesta");
     }

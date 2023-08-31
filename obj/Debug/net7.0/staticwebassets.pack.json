@@ -29,6 +29,18 @@
       "PackagePath": "staticwebassets\\img\\ciencia.png"
     },
     {
+      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\corona.png",
+      "PackagePath": "staticwebassets\\img\\corona.png"
+    },
+    {
+      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\coronita.png",
+      "PackagePath": "staticwebassets\\img\\coronita.png"
+    },
+    {
+      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\coronitaIncorrecta.png",
+      "PackagePath": "staticwebassets\\img\\coronitaIncorrecta.png"
+    },
+    {
       "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\deportes.png",
       "PackagePath": "staticwebassets\\img\\deportes.png"
     },
@@ -37,12 +49,24 @@
       "PackagePath": "staticwebassets\\img\\entretenimiento.png"
     },
     {
+      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\fire.gif",
+      "PackagePath": "staticwebassets\\img\\fire.gif"
+    },
+    {
       "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\fondo2.jpg",
       "PackagePath": "staticwebassets\\img\\fondo2.jpg"
     },
     {
       "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\geografia.png",
       "PackagePath": "staticwebassets\\img\\geografia.png"
+    },
+    {
+      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\gif.gif",
+      "PackagePath": "staticwebassets\\img\\gif.gif"
+    },
+    {
+      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\git.gif",
+      "PackagePath": "staticwebassets\\img\\git.gif"
     },
     {
       "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\historia.png",
