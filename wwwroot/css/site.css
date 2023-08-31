@@ -33,6 +33,7 @@ body{
 strong{
   color: rgb(112, 164, 241);
 }
+
 .imgs{
   margin-top: 2rem;
   margin-bottom: 2rem;
@@ -43,6 +44,7 @@ strong{
   align-items: center;
 }
 .boton{
+    margin-top: 1rem;
   display: flex;
   justify-content: center;
 }
@@ -230,18 +232,15 @@ main{
     width: 100%;
 }
 .carta{
-    
-    display: flex;
-    align-items: center;
-    margin: 10px;
-    padding: 1rem;
-   
+    width: 100%;
+    padding: 1rem; 
 } 
+
 .cards{
     margin-top: 2rem;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr ;
-    grid-template-rows: 1fr 1fr ;
+    grid-template-columns: 1fr ;
+    grid-template-rows: 1fr  ;
     grid-gap: 40px;
 }
 @media screen and (max-width:1615px) {
@@ -261,8 +260,10 @@ main{
 .img-txt{
     display: flex;
     flex-direction: row;
+  
     
 }
+
 
 
 .img-txt p{
