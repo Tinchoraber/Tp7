@@ -1,6 +1,7 @@
 <form action='@Url.Action("VerificarRespuesta")' method="post" class="formulario">
 <div class="form">
 <h2>Pregunta: @ViewBag.pregunta.Enunciado</h2>
+<input type="hidden" name="idPregunta" value="@ViewBag.pregunta.IdPregunta">
 @foreach (Respuestas item in ViewBag.Respuestas)
 {
   <button type="submit" name="IdRespuesta" value="@item.IdRespuesta">@item.Contenido</button>

@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "5AcyaS56d2Gsi2a8+YxhfLmEz1D2cZ0FhNumQzLC4dI=",
-=======
-  "Hash": "Y9r3tSbm0yNaqGCTEEEBOXgAod1XmyWYVJ01BZjmWmA=",
->>>>>>> f4d726b6799c6b46dcb4c45d7329f6d50a27ad4c
+  "Hash": "yjuLWuam3T2eyQzBkUYPLA15Z6N3ivNSmM5niKjlMtQ=",
   "Source": "TP7",
   "BasePath": "_content/TP7",
   "Mode": "Default",
@@ -14,17 +10,17 @@
     {
       "Name": "TP7\\wwwroot",
       "Source": "TP7",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TP7.styles.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TP7.styles.css",
       "SourceId": "TP7",
       "SourceType": "Computed",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TP7",
       "RelativePath": "TP7.styles.css",
       "AssetKind": "All",
@@ -35,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "Z:\\2023\\Programacion\\Tp7\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TP7.styles.css"
+      "OriginalItemSpec": "Z:\\PROGRAMACION\\Tp 07\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TP7.styles.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP7.bundle.scp.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP7.bundle.scp.css",
       "SourceId": "TP7",
       "SourceType": "Computed",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TP7",
       "RelativePath": "TP7.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "Z:\\2023\\Programacion\\Tp7\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP7.bundle.scp.css"
+      "OriginalItemSpec": "Z:\\PROGRAMACION\\Tp 07\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP7.bundle.scp.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\css\\site.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\css\\site.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -72,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\favicon.ico",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\favicon.ico",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -89,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\arte.png",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\arte.png",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "img/arte.png",
       "AssetKind": "All",
@@ -106,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\img\\arte.png"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\ciencia.png",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\ciencia.png",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "img/ciencia.png",
       "AssetKind": "All",
@@ -123,7 +119,6 @@
       "OriginalItemSpec": "wwwroot\\img\\ciencia.png"
     },
     {
-<<<<<<< HEAD
       "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\corona.png",
       "SourceId": "TP7",
       "SourceType": "Discovered",
@@ -139,6 +134,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\corona.png"
+    },
+    {
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\corona2.png",
+      "SourceId": "TP7",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
+      "BasePath": "_content/TP7",
+      "RelativePath": "img/corona2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\corona2.png"
+    },
+    {
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\Coronaa.png",
+      "SourceId": "TP7",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
+      "BasePath": "_content/TP7",
+      "RelativePath": "img/Coronaa.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Coronaa.png"
     },
     {
       "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\coronita.png",
@@ -176,80 +205,9 @@
     },
     {
       "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\deportes.png",
-=======
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\corona2.png",
->>>>>>> f4d726b6799c6b46dcb4c45d7329f6d50a27ad4c
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
-      "BasePath": "_content/TP7",
-      "RelativePath": "img/corona2.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\corona2.png"
-    },
-    {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\Coronaa.png",
-      "SourceId": "TP7",
-      "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
-      "BasePath": "_content/TP7",
-      "RelativePath": "img/Coronaa.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Coronaa.png"
-    },
-    {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\coronita.png",
-      "SourceId": "TP7",
-      "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
-      "BasePath": "_content/TP7",
-      "RelativePath": "img/coronita.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\coronita.png"
-    },
-    {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\coronitaIncorrecta.png",
-      "SourceId": "TP7",
-      "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
-      "BasePath": "_content/TP7",
-      "RelativePath": "img/coronitaIncorrecta.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\coronitaIncorrecta.png"
-    },
-    {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\deportes.png",
-      "SourceId": "TP7",
-      "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "img/deportes.png",
       "AssetKind": "All",
@@ -263,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\deportes.png"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\entretenimiento.png",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\entretenimiento.png",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "img/entretenimiento.png",
       "AssetKind": "All",
@@ -280,7 +238,6 @@
       "OriginalItemSpec": "wwwroot\\img\\entretenimiento.png"
     },
     {
-<<<<<<< HEAD
       "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\fire.gif",
       "SourceId": "TP7",
       "SourceType": "Discovered",
@@ -299,12 +256,9 @@
     },
     {
       "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\fondo2.jpg",
-=======
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\fondo2.jpg",
->>>>>>> f4d726b6799c6b46dcb4c45d7329f6d50a27ad4c
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "img/fondo2.jpg",
       "AssetKind": "All",
@@ -318,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\fondo2.jpg"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\geografia.png",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\geografia.png",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "img/geografia.png",
       "AssetKind": "All",
@@ -335,7 +289,6 @@
       "OriginalItemSpec": "wwwroot\\img\\geografia.png"
     },
     {
-<<<<<<< HEAD
       "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\gif.gif",
       "SourceId": "TP7",
       "SourceType": "Discovered",
@@ -371,12 +324,9 @@
     },
     {
       "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\historia.png",
-=======
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\historia.png",
->>>>>>> f4d726b6799c6b46dcb4c45d7329f6d50a27ad4c
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "img/historia.png",
       "AssetKind": "All",
@@ -390,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\historia.png"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\logo.png",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\logo.png",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -407,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\Thumbs.db",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\Thumbs.db",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "img/Thumbs.db",
       "AssetKind": "All",
@@ -424,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Thumbs.db"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\js\\site.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\js\\site.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -441,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -458,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -475,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -492,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -509,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -526,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -543,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -560,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -577,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -594,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -611,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -628,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -645,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -662,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -679,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -696,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -713,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -730,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -747,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -764,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -781,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -798,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -815,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -832,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -849,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -866,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -883,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -900,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -917,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -934,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -951,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -968,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -985,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1002,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1019,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1036,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1053,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1070,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1087,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1104,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1121,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1138,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1155,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1172,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1189,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1206,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1223,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1240,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1257,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1274,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1291,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1308,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1325,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1342,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1359,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1376,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1393,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1410,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\Sql\\PreguntadOrt.sql",
+      "Identity": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\Sql\\PreguntadOrt.sql",
       "SourceId": "TP7",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "ContentRoot": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\",
       "BasePath": "_content/TP7",
       "RelativePath": "Sql/PreguntadOrt.sql",
       "AssetKind": "All",

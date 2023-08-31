@@ -50,7 +50,7 @@ public class HomeController : Controller
     }
     [HttpPost] public IActionResult VerificarRespuesta(int idPregunta, int idRespuesta){
         ViewBag.EsCorrecta = Juego.VerificarRespuesta(idPregunta, idRespuesta);
-        if (Juego.VerificarRespuesta(idPregunta, idRespuesta) == true)
+        if (ViewBag.EsCorrecta == true)
         {
             ViewBag.PADRE = "padre-correcta";
             ViewBag.SCREEN = "correct-screen";
