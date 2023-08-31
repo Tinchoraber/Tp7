@@ -26,6 +26,7 @@ public class HomeController : Controller
     }
     public IActionResult Comenzar(string username, int dificultad, int categoria){
         Juego.CargarPartida(username, dificultad, categoria);
+        
         if (Juego.ObtenerProximaPregunta() != null)
         {
             return RedirectToAction("Jugar");
