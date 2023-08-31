@@ -1,34 +1,39 @@
 {
   "Files": [
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP7.bundle.scp.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP7.bundle.scp.css",
       "PackagePath": "staticwebassets\\TP7.bundle.scp.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\Sql\\PreguntadOrt.sql",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\Sql\\PreguntadOrt.sql",
       "PackagePath": "staticwebassets\\Sql\\PreguntadOrt.sql"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\css\\site.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\favicon.ico",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\Thumbs.db",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\Coronaa.png",
+      "PackagePath": "staticwebassets\\img\\Coronaa.png"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\Thumbs.db",
       "PackagePath": "staticwebassets\\img\\Thumbs.db"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\arte.png",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\arte.png",
       "PackagePath": "staticwebassets\\img\\arte.png"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\ciencia.png",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\ciencia.png",
       "PackagePath": "staticwebassets\\img\\ciencia.png"
     },
     {
+<<<<<<< HEAD
       "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\corona.png",
       "PackagePath": "staticwebassets\\img\\corona.png"
     },
@@ -42,25 +47,45 @@
     },
     {
       "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\deportes.png",
+=======
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\corona2.png",
+      "PackagePath": "staticwebassets\\img\\corona2.png"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\coronita.png",
+      "PackagePath": "staticwebassets\\img\\coronita.png"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\coronitaIncorrecta.png",
+      "PackagePath": "staticwebassets\\img\\coronitaIncorrecta.png"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\deportes.png",
+>>>>>>> f4d726b6799c6b46dcb4c45d7329f6d50a27ad4c
       "PackagePath": "staticwebassets\\img\\deportes.png"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\entretenimiento.png",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\entretenimiento.png",
       "PackagePath": "staticwebassets\\img\\entretenimiento.png"
     },
     {
+<<<<<<< HEAD
       "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\fire.gif",
       "PackagePath": "staticwebassets\\img\\fire.gif"
     },
     {
       "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\fondo2.jpg",
+=======
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\fondo2.jpg",
+>>>>>>> f4d726b6799c6b46dcb4c45d7329f6d50a27ad4c
       "PackagePath": "staticwebassets\\img\\fondo2.jpg"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\geografia.png",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\geografia.png",
       "PackagePath": "staticwebassets\\img\\geografia.png"
     },
     {
+<<<<<<< HEAD
       "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\gif.gif",
       "PackagePath": "staticwebassets\\img\\gif.gif"
     },
@@ -70,242 +95,245 @@
     },
     {
       "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\historia.png",
+=======
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\historia.png",
+>>>>>>> f4d726b6799c6b46dcb4c45d7329f6d50a27ad4c
       "PackagePath": "staticwebassets\\img\\historia.png"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\img\\logo.png",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\js\\site.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "Z:\\PROGRAMACION\\Tp 07\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
