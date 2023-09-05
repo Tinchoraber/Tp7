@@ -1,9 +1,11 @@
 public static class Juego
 {
-    private static string Username;
-    private static int PuntajeActual;
-    private static int CantidadPreguntasCorrectas;
-    public static int CantidadPreguntas;
+   
+    public static string Username;
+    public static int PuntajeActual;
+    public static int CantidadPreguntasCorrectas;
+     public static int CantidadPreguntas;
+    private static int PreguntaAEliminar;
     private static List<Preguntas> LiPreguntas  = new List<Preguntas>();
     private static List<Respuestas> LiRespuestas  = new List<Respuestas>();
     
@@ -34,9 +36,9 @@ public static class Juego
         if(LiPreguntas.Count > 0)
         {
 
-            
             Random rnd = new Random();
-            return LiPreguntas[rnd.Next(0, LiPreguntas.Count-1)];
+            PreguntaAEliminar = rnd.Next(0, LiPreguntas.Count-1);
+            return LiPreguntas[PreguntaAEliminar];
         }
         else
         {
@@ -67,9 +69,7 @@ public static class Juego
                 resp = true;
             }
         }
-        LiPreguntas.Remove(LiPreguntas[idPregunta]);
-        
-        CantidadPreguntas++;
+        LiPreguntas.RemoveAt(PreguntaAEliminar);
         return resp;
     }
     public static int DevolverCantPreguntas()

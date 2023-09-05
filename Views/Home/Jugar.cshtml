@@ -21,6 +21,7 @@
       
 
         
+<input type="hidden" name="idPregunta" value="@ViewBag.pregunta.IdPregunta">
       @foreach (Respuestas item in ViewBag.Respuestas)
       {
         <button type="submit" name="IdRespuesta" value="@item.IdRespuesta">@item.Contenido</button>
