@@ -5,16 +5,18 @@
     <div class="@ViewBag.SCREEN">
         <img src="@ViewBag.imgCORONITA">
         <p class="@ViewBag.PARRAFO">Respuesta: <strong class="@ViewBag.STRONG">@ViewBag.RESULTADO</strong></p>
-         <div class="boton">
+         <div class="botonn">
             
             <button class="@ViewBag.BOTON">
                 <a href='@Url.Action("Jugar")'>Seguir jugando </a>
             </button>
-            @if(ViewBag.RESULTADO != "INCORRECTA!!")
+            <div class="resultadoo">
+            @if(ViewBag.RESULTADO == "INCORRECTA!!")
             {
-                @ViewBag.RespCorrecta
+               <p class="@ViewBag.PARRAFO">Respuesta correcta: <strong class="strong-correcta">@ViewBag.RespCorrecta</strong> </p> 
     
             }
+            </div>
         </div>
     </div>
 </div>

@@ -7,25 +7,27 @@
         </div>
   <div class="padre-jugar" style="background-color: @ViewBag.DataCategoria.Color">
         <div class="cont-preguntas">
-                <p class="p-jugarr">@ViewBag.CantidadPreguntas/@ViewBag.TotalPreguntas</p>
-            </div>
+    <p class="p-jugarr">Preguntas restantes: @(ViewBag.CantidadPreguntas - ViewBag.CantidadPreguntasRespondidas)</p>
+</div>
         <div class="ptrgunta">
                 <div class="div-pregunta">
-                    <p>Pregunta: @ViewBag.pregunta.Enunciado</p>                
+                    <p>@ViewBag.pregunta.Enunciado</p>                
                 </div>
                 <div class="img-jugar">
                 <img src="/img/@ViewBag.DataCategoria.Foto">
               </div>
-            </div>
+          </div>
 
       
 
         
 <input type="hidden" name="idPregunta" value="@ViewBag.pregunta.IdPregunta">
+      <div class="botones">
       @foreach (Respuestas item in ViewBag.Respuestas)
       {
-        <button type="submit" name="IdRespuesta" value="@item.IdRespuesta">@item.Contenido</button>
+        <button id="bottone1" type="submit" name="IdRespuesta" value="@item.IdRespuesta"><strong>@item.Contenido</strong>  </button>
       }
+  </div>
   </div>
 
 </form>

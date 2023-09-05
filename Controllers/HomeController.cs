@@ -35,24 +35,27 @@ public class HomeController : Controller
         else{
             return RedirectToAction("ConfigurarJuego");
         }
+        
        
     }
-    public IActionResult Jugar()
+public IActionResult Jugar()
+{
+    ViewBag.pregunta = Juego.ObtenerProximaPregunta();
+    ViewBag.CantidadPreguntasRespondidas = Juego.CantidadPreguntas - Juego.DevolverPreguntas();
+    ViewBag.CantidadPreguntas = Juego.CantidadPreguntas;
+    ViewBag.TotalPreguntas = Juego.DevolverPreguntas();
+    
+    if (ViewBag.pregunta == null)
     {
-        ViewBag.pregunta = Juego.ObtenerProximaPregunta();
-        ViewBag.CantidadPreguntas = Juego.CantidadPreguntas;
-        ViewBag.TotalPreguntas = Juego.DevolverPreguntas();
-        if(ViewBag.pregunta == null)
-        {
-            return View ("Fin");
-        }
-        else
-        {
-            ViewBag.Respuestas = Juego.ObtenerProximasRespuestas(ViewBag.pregunta.IdPregunta);
-            ViewBag.DataCategoria = BD.ObtenerNombreCategoria(ViewBag.pregunta.IdCategoria);
-            return View ("Jugar");
-        }
+        return View("Fin");
     }
+    else
+    {
+        ViewBag.Respuestas = Juego.ObtenerProximasRespuestas(ViewBag.pregunta.IdPregunta);
+        ViewBag.DataCategoria = BD.ObtenerNombreCategoria(ViewBag.pregunta.IdCategoria);
+        return View("Jugar");
+    }
+}
     [HttpPost] public IActionResult VerificarRespuesta(int idPregunta, int idRespuesta){
         ViewBag.EsCorrecta = Juego.VerificarRespuesta(idPregunta, idRespuesta);
         ViewBag.RespCorrecta = Juego.ObtenerRespuestaCorrecta(idPregunta);

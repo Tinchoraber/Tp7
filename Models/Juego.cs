@@ -29,6 +29,7 @@ public static class Juego
         Username = username;
         LiPreguntas = BD.ObtenerPreguntas(dificultad, categoria);
         LiRespuestas = BD.ObtenerRespuestas(LiPreguntas);
+        
     }
     
     public static Preguntas ObtenerProximaPregunta()
