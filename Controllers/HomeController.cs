@@ -16,6 +16,7 @@ public class HomeController : Controller
     public IActionResult Index()
     {
         return View();
+        
     }
 
     public IActionResult ConfigurarJuego(){
@@ -29,16 +30,15 @@ public class HomeController : Controller
         
         if (Juego.ObtenerProximaPregunta() != null)
         {
-            return RedirectToAction("Jugar", new {user = username});
+            return RedirectToAction("Jugar");
         }
         else{
             return RedirectToAction("ConfigurarJuego");
         }
        
     }
-    public IActionResult Jugar(string user)
+    public IActionResult Jugar()
     {
-        ViewBag.username = user;
         ViewBag.pregunta = Juego.ObtenerProximaPregunta();
         if(ViewBag.pregunta == null)
         {
@@ -62,9 +62,6 @@ public class HomeController : Controller
             ViewBag.RESULTADO = "CORRECTA!!";
             ViewBag.BOTON = "correcta-button";
             ViewBag.BODY = "body-correcta";
-            
-            
-
         }
         else{
             ViewBag.PADRE = "padre-incorrecta";

@@ -1,8 +1,8 @@
 public static class Juego
 {
-    private static string Username;
-    private static int PuntajeActual;
-    private static int CantidadPreguntasCorrectas;
+    public static string Username;
+    public static int PuntajeActual;
+    public static int CantidadPreguntasCorrectas;
     private static int PreguntaAEliminar;
     private static List<Preguntas> LiPreguntas  = new List<Preguntas>();
     private static List<Respuestas> LiRespuestas  = new List<Respuestas>();

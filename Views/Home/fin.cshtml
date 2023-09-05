@@ -1,7 +1,8 @@
-<body>
+<body class="fin-body">
     
 
-<main class=" main-fin">
+
+      <main class=" main-fin">
         <div class="contenedorr">
 
         <div class="title-fin">
@@ -12,14 +13,15 @@
         
         <div class="carta-fin">
             <div>
-            <p class="p-fin">Felicidades @ViewBag.username !</p>
-            <p class="p-finn">Has obtenido @ViewBag.PuntajeActual puntos!</p>
+            <p class="p-fin">Felicidades  @Juego.Username!</p>
+            <p class="p-finn">Has obtenido @Juego.PuntajeActual puntos!</p>
+            <p class="p-finn">Has obtenido @Juego.CantidadPreguntasCorrectas respuestas correctas!</p>
             <div class="gif-fin">
             <img src="/img/emoji.gif" alt="">
             </div>  
             <div class="boton-fin">
                 <button class="button-fin">
-                    <a href='@Url.Action("ConfigurarJuego")'>Volver a jugar!</a>
+                    <a href='@Url.Action("Index")'>Volver a jugar!</a>
                 </button>
             </div>        
         </div>
