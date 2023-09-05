@@ -3,6 +3,7 @@ public static class Juego
     private static string Username;
     private static int PuntajeActual;
     private static int CantidadPreguntasCorrectas;
+    public static int CantidadPreguntas;
     private static List<Preguntas> LiPreguntas  = new List<Preguntas>();
     private static List<Respuestas> LiRespuestas  = new List<Respuestas>();
     
@@ -11,6 +12,7 @@ public static class Juego
         Username = "";
         PuntajeActual = 0;
         CantidadPreguntasCorrectas = 0;
+        CantidadPreguntas = 1;
     }
     public static List<Categorias> ObtenerCategorias()
     {
@@ -31,6 +33,8 @@ public static class Juego
     {
         if(LiPreguntas.Count > 0)
         {
+
+            
             Random rnd = new Random();
             return LiPreguntas[rnd.Next(0, LiPreguntas.Count-1)];
         }
@@ -62,10 +66,31 @@ public static class Juego
                 CantidadPreguntasCorrectas++;
                 resp = true;
             }
-            
         }
         LiPreguntas.Remove(LiPreguntas[idPregunta]);
+        
+        CantidadPreguntas++;
         return resp;
+    }
+    public static int DevolverCantPreguntas()
+    {
+        return CantidadPreguntas;
+    }
+    public static int DevolverPreguntas()
+    {
+        return LiPreguntas.Count;
+    }
+    public static string ObtenerRespuestaCorrecta(int idPregunta)
+    {
+        List<Respuestas> Respuesta1Preg = ObtenerProximasRespuestas(idPregunta);
+        foreach (Respuestas item in Respuesta1Preg)
+        {
+            if(item.IdPregunta == idPregunta && item.Correcta == true)
+            {
+                return item.Contenido;
+            }
+        }
+        return "";
     }
 }
 

@@ -49,8 +49,16 @@
       "PackagePath": "staticwebassets\\img\\deportes.png"
     },
     {
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\emoji.gif",
+      "PackagePath": "staticwebassets\\img\\emoji.gif"
+    },
+    {
       "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\entretenimiento.png",
       "PackagePath": "staticwebassets\\img\\entretenimiento.png"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\fire.gif",
+      "PackagePath": "staticwebassets\\img\\fire.gif"
     },
     {
       "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\fondo2.jpg",
@@ -59,6 +67,14 @@
     {
       "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\geografia.png",
       "PackagePath": "staticwebassets\\img\\geografia.png"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\gif.gif",
+      "PackagePath": "staticwebassets\\img\\gif.gif"
+    },
+    {
+      "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\git.gif",
+      "PackagePath": "staticwebassets\\img\\git.gif"
     },
     {
       "Id": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\historia.png",

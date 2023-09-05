@@ -1,9 +1,31 @@
+<main class="container main-jugar" style="background-color: @ViewBag.DataCategoria.Fondo">
+
 <form action='@Url.Action("VerificarRespuesta")' method="post" class="formulario">
-<div class="form">
-<h2>Pregunta: @ViewBag.pregunta.Enunciado</h2>
-@foreach (Respuestas item in ViewBag.Respuestas)
-{
-  <button type="submit" name="IdRespuesta" value="@item.IdRespuesta">@item.Contenido</button>
-}
-</div>
+
+  <div class="titulo-cat">
+            <p style = "color: @ViewBag.DataCategoria.Color">@ViewBag.DataCategoria.Nombre</p>
+        </div>
+  <div class="padre-jugar" style="background-color: @ViewBag.DataCategoria.Color">
+        <div class="cont-preguntas">
+                <p class="p-jugarr">@ViewBag.CantidadPreguntas/@ViewBag.TotalPreguntas</p>
+            </div>
+        <div class="ptrgunta">
+                <div class="div-pregunta">
+                    <p>Pregunta: @ViewBag.pregunta.Enunciado</p>                
+                </div>
+                <div class="img-jugar">
+                <img src="/img/@ViewBag.DataCategoria.Foto">
+              </div>
+            </div>
+
+      
+
+        
+      @foreach (Respuestas item in ViewBag.Respuestas)
+      {
+        <button type="submit" name="IdRespuesta" value="@item.IdRespuesta">@item.Contenido</button>
+      }
+  </div>
+
 </form>
+</main>

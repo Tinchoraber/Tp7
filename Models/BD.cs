@@ -73,6 +73,17 @@ public static class BD{
         }
         return ListaRespuestas;
     }
+    public static Categorias ObtenerNombreCategoria(int categoria)
+    {
+        Categorias Cat = new Categorias();
+         using (SqlConnection db = new SqlConnection(connectionString))
+        {
+            string SQL = "SELECT * FROM Categorias WHERE IdCategoria = @pCategoriaa";
+            Cat = db.QueryFirstOrDefault<Categorias>(SQL, new{@pCategoriaa = categoria});
+        }
+        return Cat;
+        
+    }
 }
   
 

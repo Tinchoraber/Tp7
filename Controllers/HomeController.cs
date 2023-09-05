@@ -38,6 +38,8 @@ public class HomeController : Controller
     public IActionResult Jugar()
     {
         ViewBag.pregunta = Juego.ObtenerProximaPregunta();
+        ViewBag.CantidadPreguntas = Juego.CantidadPreguntas;
+        ViewBag.TotalPreguntas = Juego.DevolverPreguntas();
         if(ViewBag.pregunta == null)
         {
             return View ("Fin");
@@ -45,21 +47,39 @@ public class HomeController : Controller
         else
         {
             ViewBag.Respuestas = Juego.ObtenerProximasRespuestas(ViewBag.pregunta.IdPregunta);
+            ViewBag.DataCategoria = BD.ObtenerNombreCategoria(ViewBag.pregunta.IdCategoria);
             return View ("Jugar");
         }
     }
     [HttpPost] public IActionResult VerificarRespuesta(int idPregunta, int idRespuesta){
         ViewBag.EsCorrecta = Juego.VerificarRespuesta(idPregunta, idRespuesta);
-        if (Juego.VerificarRespuesta(idPregunta, idRespuesta) == true)
+        ViewBag.RespCorrecta = Juego.ObtenerRespuestaCorrecta(idPregunta);
+        if (ViewBag.EsCorrecta == true)
         {
-            ViewBag.RESPUESTA = "LA RESPUESTA ES CORRECTA";
+            ViewBag.PADRE = "padre-correcta";
+            ViewBag.SCREEN = "correct-screen";
+            ViewBag.imgCORONITA = "/img/coronita.png";
+            ViewBag.PARRAFO = "parrafo-correcta";
+            ViewBag.STRONG = "strong-correcta";
+            ViewBag.RESULTADO = "CORRECTA!!";
+            ViewBag.BOTON = "correcta-button";
+            ViewBag.BODY = "body-correcta";
+            
+            
+
         }
         else{
-            ViewBag.RESPUESTA = "LA RESPUESTA ES INCORRECTA";
+            ViewBag.PADRE = "padre-incorrecta";
+             ViewBag.SCREEN = "incorrect-screen";
+             ViewBag.imgCORONITA = "/img/coronitaIncorrecta.png";
+             ViewBag.PARRAFO = "parrafo-incorrecta";
+             ViewBag.STRONG = "strong-incorrecta";
+             ViewBag.RESULTADO = "INCORRECTA!!";
+             ViewBag.BOTON = "incorrect-button";
+             ViewBag.BODY = "body-incorrecto";
         }
         return View ("Respuesta");
     }
-
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Y9r3tSbm0yNaqGCTEEEBOXgAod1XmyWYVJ01BZjmWmA=",
+  "Hash": "Iilm6B0bZ47iNEJzLh4Szkz4wfRniEVBmHyq68kVSjk=",
   "Source": "TP7",
   "BasePath": "_content/TP7",
   "Mode": "Default",
@@ -204,6 +204,23 @@
       "OriginalItemSpec": "wwwroot\\img\\deportes.png"
     },
     {
+      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\emoji.gif",
+      "SourceId": "TP7",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "BasePath": "_content/TP7",
+      "RelativePath": "img/emoji.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\emoji.gif"
+    },
+    {
       "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\entretenimiento.png",
       "SourceId": "TP7",
       "SourceType": "Discovered",
@@ -219,6 +236,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\entretenimiento.png"
+    },
+    {
+      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\fire.gif",
+      "SourceId": "TP7",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "BasePath": "_content/TP7",
+      "RelativePath": "img/fire.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fire.gif"
     },
     {
       "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\fondo2.jpg",
@@ -253,6 +287,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\geografia.png"
+    },
+    {
+      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\gif.gif",
+      "SourceId": "TP7",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "BasePath": "_content/TP7",
+      "RelativePath": "img/gif.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\gif.gif"
+    },
+    {
+      "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\git.gif",
+      "SourceId": "TP7",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\",
+      "BasePath": "_content/TP7",
+      "RelativePath": "img/git.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\git.gif"
     },
     {
       "Identity": "Z:\\2023\\Programacion\\Tp7\\wwwroot\\img\\historia.png",
