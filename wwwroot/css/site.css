@@ -238,29 +238,7 @@
     margin: 1rem;
   }
  
-    #bottone1 {
-        padding-left: 33px;
-        padding-right: 33px;
-        padding-bottom: 16px;
-        padding-top: 16px;
-        border-radius: 9px;
-        background: black;
-        border: none;
-        font-family: inherit;
-        text-align: center;
-        cursor: pointer;
-        transition: 0.4s;
-        color:white ;
-        margin-bottom: 2rem;
-       }
-       
-       #bottone1:hover {
-        box-shadow: 10px 8px 80px -20px rgb(79, 64, 64);       }
-       
-       #bottone1:active {
-        transform: scale(0.97);
-    box-shadow: 9px 7px 70px -14px rgb(92, 68, 68);
-       }
+    
     .jugar-button a{
         display: flex;
         align-items: center;
@@ -763,6 +741,37 @@
     margin: 2rem;
 }
 
+
+.boton-jugarrr {
+    background-color: #444848;
+    padding: 14px 40px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: 2px dashed #828483;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    transition: .4s;
+    margin: 1rem;
+   }
+   
+   .boton-jugarrr span:last-child {
+    display: none;
+   }
+   
+   .boton-jugarrr:hover {
+    transition: .4s;
+    border: 2px dashed #ffffff;
+    background-color: #383737;
+    color: white;
+   }
+   
+   .boton-jugarrr:active {
+    background-color: #87dbd0;
+   }
+   
+   
 
 
 
